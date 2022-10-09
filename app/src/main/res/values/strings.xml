@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_1_Homework_1</string>
+    <string name="home_work_1">Home work 1</string>
+    <string name="send">Send</string>
+    <string name="тема">Тема</string>
+    <string name="e_mail">E-mail</string>
+    <string name="Enter_message">Введите соощение</string>
+</resources>
